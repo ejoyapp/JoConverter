@@ -1,7 +1,7 @@
 {
   "protocol": 1,
   "issued_at": 1750000000,
-  "plugin-ref": "v1.ZH6l19JNWUnYIX9eUWI6vDdyL851E-lGRZX0xgnwSv71sgREpIWusZ6tKFL1",
+  "plugin_ref": "v1.ZH6l19JNWUnYIX9eUWI6vDdyL851E-lGRZX0xgnwSv71sgREpIWusZ6tKFL1",
   "min_client": "1.2.0",
   "notice": { "en": "Plugin downloads have moved." }
 }
