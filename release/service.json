@@ -1,6 +1,6 @@
 {
   "protocol": 1,
-  "issued_at": 1750000001,
+  "issued_at": 1750000000,
   "plugin_ref": "v1.AvQKqO3wVqfYIX9eUWI6vDdyL851E-lGSJrjkhjsT6O4vgYG_cKw7oK0OlzyYQ",
   "min_client": "1.2.0",
   "notice": { "en": "Plugin test." }
