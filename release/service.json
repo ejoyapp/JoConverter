@@ -1,7 +1,7 @@
 {
   "data": {
     "issued_at": 1750000000,
-    "min_client": "1.0.1",
+    "min_client": "1.2.1",
     "notice": {
       "en": "Plugin test."
     },
