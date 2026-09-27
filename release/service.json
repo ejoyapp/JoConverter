@@ -1,7 +1,12 @@
 {
-  "protocol": 1,
-  "issued_at": 1750000000,
-  "plugin_ref": "v1.AvQKqO3wVqfYIX9eUWI6vDdyL851E-lGSJrjkhjsT6O4vgYG_cKw7oK0OlzyYQ",
-  "min_client": "1.2.0",
-  "notice": { "en": "Plugin test." }
+  "data": {
+    "issued_at": 1750000000,
+    "min_client": "1.0.1",
+    "notice": {
+      "en": "Plugin test."
+    },
+    "plugin_ref": "v1.AvQKqO3wVqfYIX9eUWI6vDdyL851E-lGSJrjkhjsT6O4vgYG_cKw7oK0OlzyYQ",
+    "protocol": 1
+  },
+  "signature": "e3c5d4eed9327d30a41825878d0f0a4809a657837c0c3fc0b09edf699699c05d69cad5bcff1e599e34cecb15ed7169eeac05628f9dd7779e56dcac24e7372209"
 }
