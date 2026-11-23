@@ -1,15 +1,15 @@
 {
   "$comment": "Update manifest — host at repo root on the main branch. Fetched via raw.githubusercontent.com. Update this file as part of every release; the app falls back to the GitHub Releases API if this file is unreachable.",
   "version": "1.0.9",
-  "releaseDate": "2026-11-23",
+  "releaseDate": "2026-11-24",
   "notes": {
-    "en": "Initial public release: batch conversion, folder import, ffplay preview, GPU detection."
+    "en": "Optimize user experience."
   },
   "assets": {
-    "win-setup":      "https://github.com/ejoyapp/joconverter/releases/download/v1.0.9/JoConverter-Setup-1.0.9.0-x64.exe", 
-    "win-portable":   "https://github.com/ejoyapp/joconverter/releases/download/v1.0.9/JoConverter-Setup-1.0.9.0-x64.exe",
-    "mac-dmg":        "https://github.com/ejoyapp/joconverter/releases/download/v1.0.9/JoConverter-Setup-1.0.9.0-x64.dmg",
-    "linux-appimage": "https://github.com/ejoyapp/joconverter/releases/download/v1.0.9/JoConverter-Setup-1.0.9.0-x64.AppImage"
+    "win-setup":      "https://github.com/ejoyapp/joconverter/releases/download/v1.10.0/JoConverter-Setup-1.10.0.0-x64.exe", 
+    "win-portable":   "https://github.com/ejoyapp/joconverter/releases/download/v1.10.0/JoConverter-Setup-1.10.0.0-x64.exe",
+    "mac-dmg":        "https://github.com/ejoyapp/joconverter/releases/download/v1.10.0/JoConverter-Setup-1.10.0.0-x64.dmg",
+    "linux-appimage": "https://github.com/ejoyapp/joconverter/releases/download/v1.10.0/JoConverter-Setup-1.10.0.0-x64.AppImage"
   },
   "stores": {
     "macstore":"macappstore://itunes.apple.com/app/id0000000000",
