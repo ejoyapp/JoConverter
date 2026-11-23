@@ -3,7 +3,7 @@
   "version": "1.0.9",
   "releaseDate": "2026-11-23",
   "notes": {
-    "en": "Initial public release: batch conversion, folder import, ffplay preview, GPU detection.",
+    "en": "Initial public release: batch conversion, folder import, ffplay preview, GPU detection."
   },
   "assets": {
     "win-setup":      "https://github.com/ejoyapp/joconverter/releases/download/v1.0.9/JoConverter-Setup-1.0.9.0-x64.exe", 
