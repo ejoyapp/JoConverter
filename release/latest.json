@@ -1,15 +1,15 @@
 {
   "$comment": "Update manifest — host at repo root on the main branch. Fetched via raw.githubusercontent.com. Update this file as part of every release; the app falls back to the GitHub Releases API if this file is unreachable.",
-  "version": "1.0.9",
-  "releaseDate": "2026-11-24",
+  "version": "1.10.1",
+  "releaseDate": "2026-11-27",
   "notes": {
-    "en": "Optimize user experience."
+    "en": "Added conversion presets for GIF, WAV, MOV, and more, with three GIF profiles to balance file size and quality. Improved preset cards, colored icon buttons, and scrolling, and added millisecond timecode input with a live calculated end-time preview."
   },
   "assets": {
-    "win-setup":      "https://github.com/ejoyapp/joconverter/releases/download/v1.10.0/JoConverter-Setup-1.10.0.0-x64.exe", 
-    "win-portable":   "https://github.com/ejoyapp/joconverter/releases/download/v1.10.0/JoConverter-Setup-1.10.0.0-x64.exe",
-    "mac-dmg":        "https://github.com/ejoyapp/joconverter/releases/download/v1.10.0/JoConverter-Setup-1.10.0.0-x64.dmg",
-    "linux-appimage": "https://github.com/ejoyapp/joconverter/releases/download/v1.10.0/JoConverter-Setup-1.10.0.0-x64.AppImage"
+    "win-setup":      "https://github.com/ejoyapp/joconverter/releases/download/v1.10.1/JoConverter-Setup-1.10.1.0-x64.exe", 
+    "win-portable":   "https://github.com/ejoyapp/joconverter/releases/download/v1.10.1/JoConverter-Setup-1.10.1.0-x64.exe",
+    "mac-dmg":        "https://github.com/ejoyapp/joconverter/releases/download/v1.10.1/JoConverter-Setup-1.10.1.0-x64.dmg",
+    "linux-appimage": "https://github.com/ejoyapp/joconverter/releases/download/v1.10.1/JoConverter-Setup-1.10.1.0-x64.AppImage"
   },
   "stores": {
     "macstore":"macappstore://itunes.apple.com/app/id0000000000",
